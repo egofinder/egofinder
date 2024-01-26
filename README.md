@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **egofinder/egofinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning Next.js
+
+📫 How to reach me: baekhakjeon@gmail.com
+
+😄 Pronouns: if the Korean name "Baekhak Jeon" is difficult to pronounce, please use the English name "Benjamin."
